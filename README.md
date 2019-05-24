@@ -1,6 +1,6 @@
 # csc648-848-sp19-Section2-Team12
 
-## Milestone 0 Completed 2/22
+## Gator Housing
 
 # Members
 ### Andrew St Germain - Team Lead
