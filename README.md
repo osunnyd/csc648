@@ -6,8 +6,8 @@
 ### Andrew St Germain - Team Lead
 ### David Adams - Backend/Documenter
 ### Peter Lin - Frontend
-### Sagar Pandya - Backend Lead
+### Sagar Pandya - Backend
 ### Steven Apicella - Frontend Lead
-### Sunny Wong - Backend/Github Master
+### Sunny Wong - Backend Lead/Github Master
 ### Ganzolboo Ayurzana - Frontend
 
